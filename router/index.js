@@ -1,6 +1,6 @@
 const Router = require('koa-router')();
 const user = require('./user');
-const diary = require('./Diary');
+const diary = require('./diary');
 
 [
     user,
